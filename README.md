@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abd-elr4hman
-- 🌱 I’m learning Software Engineering and Mahcine-learning.
+- 🌱 I’m learning Software Engineering and Machine-learning.
 - You can find some of the personal projects I worked on here! 
 
 ### Connect with me:

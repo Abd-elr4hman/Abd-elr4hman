@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Finetune, Serve Llama3](https://medium.com/@ab.hassanein/finetune-serve-llama3-796de5e77df6?source=rss-57b63b0d7e7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

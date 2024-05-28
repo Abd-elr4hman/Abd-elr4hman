@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **Software Engineering and Machine learning**
 
-- 📝 I regularly write articles on [https://medium.com/@ab.hassanein](https://medium.com/@ab.hassanein)
-
 - 📫 How to reach me **ab.hassanein@gmail.com**
 
-- 📄 Know about my experiences [abhassanein.info](abhassanein.info)
+- 📄 Know about my experiences [abhassanein.info](https://abhassanein.info/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

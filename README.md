@@ -9,7 +9,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Server-Sent Events Streaming For LLMs](https://medium.com/@ab.hassanein/server-sent-events-streaming-for-llms-a8bb6834521a?source=rss-57b63b0d7e7------2)
 - [Streaming Responses In FastAPI](https://medium.com/@ab.hassanein/streaming-responses-in-fastapi-d6a3397a4b7b?source=rss-57b63b0d7e7------2)
 - [Demystifying LangChain Tool Calling-Agent](https://medium.com/@ab.hassanein/demystifying-langchain-tool-calling-agent-75cba2c46a61?source=rss-57b63b0d7e7------2)
 - [Finetune, Serve Llama3](https://medium.com/@ab.hassanein/finetune-serve-llama3-796de5e77df6?source=rss-57b63b0d7e7------2)

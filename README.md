@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ab.hassanein@gmail.com**
 
-- 📄 Know about my experiences [abhassanein.info](https://abhassanein.info/)
+- 📄 Know about my experiences [resume.hassanein.dev](https://resume.hassanein.dev)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

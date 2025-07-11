@@ -9,7 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Measuring What Matters: Crafting Evals For GenAI Solutions](https://medium.com/@ab.hassanein/measuring-what-matters-crafting-business-aligned-evals-for-generative-solutions-6229063f4146?source=rss-57b63b0d7e7------2)
+- [Measuring What Matters: Crafting Evaluation Metrics for GenAI Solutions](https://medium.com/@ab.hassanein/measuring-what-matters-crafting-business-aligned-evals-for-generative-solutions-6229063f4146?source=rss-57b63b0d7e7------2)
 - [Streaming Responses In FastAPI](https://medium.com/@ab.hassanein/streaming-responses-in-fastapi-d6a3397a4b7b?source=rss-57b63b0d7e7------2)
 - [Demystifying LangChain Tool Calling-Agent](https://medium.com/@ab.hassanein/demystifying-langchain-tool-calling-agent-75cba2c46a61?source=rss-57b63b0d7e7------2)
 - [Finetune, Serve Llama3](https://medium.com/@ab.hassanein/finetune-serve-llama3-796de5e77df6?source=rss-57b63b0d7e7------2)

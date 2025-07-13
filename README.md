@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [resume.hassanein.dev](https://resume.hassanein.dev)
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Measuring What Matters: Crafting Evaluation Metrics for GenAI Solutions](https://medium.com/@ab.hassanein/measuring-what-matters-crafting-business-aligned-evals-for-generative-solutions-6229063f4146?source=rss-57b63b0d7e7------2)
 - [Streaming Responses In FastAPI](https://medium.com/@ab.hassanein/streaming-responses-in-fastapi-d6a3397a4b7b?source=rss-57b63b0d7e7------2)

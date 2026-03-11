@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
 
-- 🌱 I’m currently learning **Software Engineering and Machine learning**
-
 - 📫 How to reach me **ab.hassanein@gmail.com**
 
 ### Latest Blog posts
